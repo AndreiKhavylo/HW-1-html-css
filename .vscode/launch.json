@@ -1,0 +1,14 @@
+{
+    // Використовуйте IntelliSense, щоб дізнатися про можливі атрибути.
+    // Наведіть курсор, щоб переглянути описи існуючих атрибутів.
+    // Для отримання додаткової інформації відвідайте: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\Home\\OneDrive - Ancor365\\Desktop\\my work\\HW-1-html-css\\index.html"
+        }
+    ]
+}
